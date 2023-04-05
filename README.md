@@ -7,13 +7,13 @@ https://proud-sand-0cf163f10.2.azurestaticapps.net/
 
 https://hrishinde.github.io/-E-commerceWebsite.github.io/
 
-Web Technologies used : HTML, CSS, JS
+### Web Technologies used : HTML, CSS, JS
 
-IDE : VS-Code
+### IDE : VS-Code
 
-Industry : Lifestyle
+### Industry : Lifestyle
 
-Project Title :Nike shoes store
+### Project Title :Nike shoes store
 
 Problem Statement/Opportunity*:The objective of this project is to design and develop a user-friendly e-commerce website that offers a wide range of Nike shoes for customers to choose from. The website should provide a range of features such as filtering by shoe type, size, color, and price range, as well as detailed product descriptions, high-quality images, and reviews from previous customers. 
 Overall, the goal of this project is to provide Nike customers with a convenient, reliable, and enjoyable shopping experience, while also providing a platform for the brand to increase its sales and customer base.
@@ -22,7 +22,7 @@ Project Description*:My project aims to create an online store for Nike shoes th
 The website will be designed with a user-friendly interface that allows customers to easily navigate through the website and find the shoes they are looking for. The homepage will feature the latest releases, bestsellers, and popular collections to provide customers with a quick overview of what's available.
 The technology used for the project is HTML, CSS and Java Script.
 
-Primary Azure Technology*: Static Web Apps , Web Application Firewall
+### Primary Azure Technology*: Static Web Apps , Web Application Firewall
 
 # Screenshots and steps
 1. Open the Azure portal in your web browser.
@@ -44,7 +44,7 @@ Primary Azure Technology*: Static Web Apps , Web Application Firewall
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/88624516/230202335-56955348-ad3c-4902-96be-a23951b04e2b.png)
 
-Creating Web Application Firewall
+### Creating Web Application Firewall
  
 1. Create a policy
 2. Configure WAF rules (optional)
